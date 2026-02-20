@@ -42,7 +42,7 @@ Sensitive Data Exposure	Maps PII/Intellectual Property to open groups.	🔴 HIGH
 NTFS Misconfig	Audits ACE entries and inheritance violations.	🔴 HIGH  
 Mixed Content	Detects co-located apps and data config files.	🟡 MEDIUM  
 
-🛠️ Quick Start Guide
+🛠️ Quick Start Guide  
 1. Prerequisites
 OS: Windows (Native NTFS Scanning)
 LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi).
