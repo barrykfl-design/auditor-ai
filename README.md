@@ -54,7 +54,7 @@ LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi
 We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.  
 
 
-3. Configuration
+4. Configuration
 Input the share folder you would like to scan:  
 <img width="367" height="107" alt="image" src="https://github.com/user-attachments/assets/71d8ed73-f8a1-43cf-920c-6cf263fb6900" />
 
