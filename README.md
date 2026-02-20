@@ -16,7 +16,7 @@ Offline Ready: Designed for regulated industries and high-security internal netw
 Automated Risk Scoring: Instant classification (High/Medium/Low) based on folder structures.
 Contextual Analysis: Understands why a permission is dangerous (e.g., Ransomware susceptibility).
 Prioritized Remediation: Actionable steps for IT teams, ranked by critical impact.
-<img width="477" height=""270" alt="image" src="https://github.com/user-attachments/assets/1716e13b-c644-40fd-87cb-c169f57d7641" />
+<img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/dacb02a4-e92c-4f8e-9202-d3881efbfeff" />
 
 
 📊 Audit-Ready Deliverables
