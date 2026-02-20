@@ -45,7 +45,7 @@ LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi
 
 
 3. Installation
-The total used LM Studio and using "google/gemma-3-4b" LLM free tier by default.
+We used LM Studio and using "google/gemma-3-4b" LLM free tier by default.
 
 
 3. Configuration
