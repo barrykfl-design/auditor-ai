@@ -1,6 +1,6 @@
 🛡️ Auditor AI: The Audit & Analyzer (Enterprise-Grade DLP Audit Tool | 100% Local | Zero Data Leakage)
 
-Auditor AI is a production-grade, AI-powered Data Loss Prevention (DLP) tool built for cybersecurity teams / Internal auditor who cannot risk sending sensitive internal data to cloud-based LLMs. It scans Windows file shares, analyzes permissions via local LLMs, and generates audit-ready reports—all within your air-gapped environment.
+Auditor AI is a production-grade, AI-powered Data Loss Prevention (DLP) tool built for cybersecurity teams / Internal auditor who cannot risk sending sensitive internal data to cloud-based LLMs. It scans Windows file shares, analyzes permissions via local LLMs, and generates audit-ready reports - all within your air-gapped environment.
 
 🚀 Key Value Proposition
 "What stays in your network, stays in your network."
