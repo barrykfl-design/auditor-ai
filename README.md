@@ -16,11 +16,15 @@ Offline Ready: Designed for regulated industries and high-security internal netw
 Automated Risk Scoring: Instant classification (High/Medium/Low) based on folder structures.
 Contextual Analysis: Understands why a permission is dangerous (e.g., Ransomware susceptibility).
 Prioritized Remediation: Actionable steps for IT teams, ranked by critical impact.
+<img width="954" height="541" alt="image" src="https://github.com/user-attachments/assets/7aeae118-5d72-4059-8411-89f40f5b4b9b" />
+
 
 📊 Audit-Ready Deliverables
 Full Permissions CSV: Granular, line-by-line NTFS audit for SIEM/SOAR integration.
 Interactive HTML Dashboard: Visual executive summary for rapid threat response.
 AI Word Report: Professional, pre-formatted document for compliance sign-off.
+<img width="1666" height="488" alt="image" src="https://github.com/user-attachments/assets/86ac210d-f4df-4fa5-aab4-4f9147f8f7f7" />
+
 
 ⚠️ Critical Pain Points Solved
 The Problem	The Auditor AI Solution
