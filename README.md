@@ -49,15 +49,15 @@ LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi
 <img width="1203" height="213" alt="image" src="https://github.com/user-attachments/assets/77fcc0be-dd06-4776-9dc2-e9e0d8ce5d9c" />
 
 
-3. Installation
+3. Installation  
 
 We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.  
 
 
-3. Configuration
+3. Configuration  
 <img width="662" height="296" alt="image" src="https://github.com/user-attachments/assets/3fe7f2ae-25f7-4963-b55b-26b9279f98a7" />
 
-4. Execute Scan
+4. Execute Scan  
 Press the Scan button.
 <img width="257" height="71" alt="image" src="https://github.com/user-attachments/assets/22b62774-2dec-4a7d-b9f4-4399085cd707" />
 
