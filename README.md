@@ -20,6 +20,7 @@ Prioritized Remediation: Actionable steps for IT teams, ranked by critical impac
 <img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/dacb02a4-e92c-4f8e-9202-d3881efbfeff" />
 
 
+
 📊 Audit-Ready Deliverables
 Full Permissions CSV: Granular, line-by-line NTFS audit for SIEM/SOAR integration.
 Interactive HTML Dashboard: Visual executive summary for rapid threat response.
