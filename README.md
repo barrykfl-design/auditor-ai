@@ -50,7 +50,8 @@ LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi
 
 
 3. Installation
-We used LM Studio and using "google/gemma-3-4b" LLM free tier by default.
+
+We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the exe and then run directly.
 
 
 3. Configuration
