@@ -21,27 +21,27 @@ Prioritized Remediation: Actionable steps for IT teams, ranked by critical impac
 
 
 
-📊 Audit-Ready Deliverables
-Full Permissions CSV: Granular, line-by-line NTFS audit for SIEM/SOAR integration.
-Interactive HTML Dashboard: Visual executive summary for rapid threat response.
-AI Word Report: Professional, pre-formatted document for compliance sign-off.
+📊 Audit-Ready Deliverables  
+Full Permissions CSV: Granular, line-by-line NTFS audit for SIEM/SOAR integration.  
+Interactive HTML Dashboard: Visual executive summary for rapid threat response.  
+AI Word Report: Professional, pre-formatted document for compliance sign-off.  
 <img width="1666" height="488" alt="image" src="https://github.com/user-attachments/assets/86ac210d-f4df-4fa5-aab4-4f9147f8f7f7" />
 
 
-⚠️ Critical Pain Points Solved
-The Problem	The Auditor AI Solution
-Data Leakage	100% local execution. No third-party API exposure.
-High Costs	Open-source foundation. No expensive enterprise licensing.
-Manual Audits	Automated AI analysis replaces weeks of manual CSV reviews.
-Compliance Gaps	Built specifically to meet GDPR, HIPAA, and ISO 27001 standards.
+⚠️ Critical Pain Points Solved  
+The Problem	The Auditor AI Solution  
+Data Leakage	100% local execution. No third-party API exposure.  
+High Costs	Open-source foundation. No expensive enterprise licensing.  
+Manual Audits	Automated AI analysis replaces weeks of manual CSV reviews.  
+Compliance Gaps	Built specifically to meet GDPR, HIPAA, and ISO 27001 standards.  
 
-🔍 Audit & Risk Coverage Matrix
-Risk Category	Audit Capability	Inherent Risk
-Open Write Shares	Detects broad groups (Authenticated Users) with write access.	🔴 HIGH
-Open Read Shares	Identifies exfiltration vectors for sensitive documents.	🔴 HIGH
-Sensitive Data Exposure	Maps PII/Intellectual Property to open groups.	🔴 HIGH
-NTFS Misconfig	Audits ACE entries and inheritance violations.	🔴 HIGH
-Mixed Content	Detects co-located apps and data config files.	🟡 MEDIUM
+🔍 Audit & Risk Coverage Matrix  
+Risk Category	Audit Capability	Inherent Risk  
+Open Write Shares	Detects broad groups (Authenticated Users) with write access.	🔴 HIGH  
+Open Read Shares	Identifies exfiltration vectors for sensitive documents.	🔴 HIGH  
+Sensitive Data Exposure	Maps PII/Intellectual Property to open groups.	🔴 HIGH  
+NTFS Misconfig	Audits ACE entries and inheritance violations.	🔴 HIGH  
+Mixed Content	Detects co-located apps and data config files.	🟡 MEDIUM  
 
 🛠️ Quick Start Guide
 1. Prerequisites
