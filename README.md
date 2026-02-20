@@ -44,8 +44,8 @@ Mixed Content	Detects co-located apps and data config files.	🟡 MEDIUM
 
 🛠️ Quick Start Guide  
 1. Prerequisites
-OS: Windows (Native NTFS Scanning)
-LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi).
+OS: Windows (Native NTFS Scanning)  
+LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi).  
 <img width="1203" height="213" alt="image" src="https://github.com/user-attachments/assets/77fcc0be-dd06-4776-9dc2-e9e0d8ce5d9c" />
 
 
