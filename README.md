@@ -29,8 +29,7 @@ AI Word Report: Professional, pre-formatted document for compliance sign-off.
 
 
 ⚠️ Critical Pain Points Solved  
-The Problem	The Auditor AI Solution  
-Data Leakage	100% local execution. No third-party API exposure.  
+The Auditor AI Solution 100% local execution. No third-party API exposure.  
 High Costs	Open-source foundation. No expensive enterprise licensing.  
 Manual Audits	Automated AI analysis replaces weeks of manual CSV reviews.  
 Compliance Gaps	Built specifically to meet GDPR, HIPAA, and ISO 27001 standards.  
@@ -52,7 +51,7 @@ LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi
 
 3. Installation
 
-We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.
+We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.  
 
 
 3. Configuration
