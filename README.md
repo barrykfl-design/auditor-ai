@@ -57,8 +57,9 @@ Input the share folder you would like to scan:
   
 4. Configuration
 <img width="662" height="296" alt="image" src="https://github.com/user-attachments/assets/3fe7f2ae-25f7-4963-b55b-26b9279f98a7" />  
+LM Studio installed and Local LLM google/gemma-3-4b are used. You may switch to use other models like QWen,Gpt ... etc.
 
-5. Execute Scan  
+6. Execute Scan  
 Press the Scan button. Three files will be generated at the same folder 1) Dashboard 2) ACL CSV 3) AI-Report.
 <img width="257" height="71" alt="image" src="https://github.com/user-attachments/assets/22b62774-2dec-4a7d-b9f4-4399085cd707" />  
 
