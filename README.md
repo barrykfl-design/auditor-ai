@@ -53,7 +53,7 @@ We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For th
 3. Input Scan  
 Input the share folder you would like to scan:  
 <img width="367" height="107" alt="image" src="https://github.com/user-attachments/assets/71d8ed73-f8a1-43cf-920c-6cf263fb6900" />  
-
+  
 4. Configuration
 <img width="662" height="296" alt="image" src="https://github.com/user-attachments/assets/3fe7f2ae-25f7-4963-b55b-26b9279f98a7" />  
 
