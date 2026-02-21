@@ -45,21 +45,21 @@ Mixed Content	Detects co-located apps and data config files.	🟡 MEDIUM
 1. Prerequisites
 OS: Windows (Native NTFS Scanning)  
 LLM Runtime: LM Studio or Ollama running a model (e.g., Llama 3, Mistral, or Phi).  
-<img width="1203" height="213" alt="image" src="https://github.com/user-attachments/assets/77fcc0be-dd06-4776-9dc2-e9e0d8ce5d9c" />
-/
+<img width="1203" height="213" alt="image" src="https://github.com/user-attachments/assets/77fcc0be-dd06-4776-9dc2-e9e0d8ce5d9c" />  /
+
 2. Installation  
-We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.  
-/
+We used LM Studio and using "google/gemma-3-4b" LLM free tier by default. For the Auditor-AI tool, just download the "Auditor-AI.exe" and then run directly.  /
+
 3. Input Scan  
 Input the share folder you would like to scan:  
-<img width="367" height="107" alt="image" src="https://github.com/user-attachments/assets/71d8ed73-f8a1-43cf-920c-6cf263fb6900" />  
-/
+<img width="367" height="107" alt="image" src="https://github.com/user-attachments/assets/71d8ed73-f8a1-43cf-920c-6cf263fb6900" />  /
+
 4. Configuration
-<img width="662" height="296" alt="image" src="https://github.com/user-attachments/assets/3fe7f2ae-25f7-4963-b55b-26b9279f98a7" />
-/
+<img width="662" height="296" alt="image" src="https://github.com/user-attachments/assets/3fe7f2ae-25f7-4963-b55b-26b9279f98a7" />  /
+
 5. Execute Scan  
 Press the Scan button.
-<img width="257" height="71" alt="image" src="https://github.com/user-attachments/assets/22b62774-2dec-4a7d-b9f4-4399085cd707" />
-/
+<img width="257" height="71" alt="image" src="https://github.com/user-attachments/assets/22b62774-2dec-4a7d-b9f4-4399085cd707" />  /
+
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
