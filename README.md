@@ -9,7 +9,7 @@ We eliminate the #1 risk of AI security tools: uploading confidential directory 
 
 ✨ Core Features
 🔒 100% Privacy & Air-Gapped Design
-Zero External Calls: No data ever leaves your machine. No OpenAI, no telemetry, no tracking.
+Zero External Calls: No data ever leaves your machine. No cloud api, no telemetry, no tracking.
 Universal Compatibility: Native support for LM Studio, Ollama, and Llama.cpp.
 Offline Ready: Designed for regulated industries and high-security internal networks.
 
